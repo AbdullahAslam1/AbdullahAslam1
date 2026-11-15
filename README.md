@@ -1,33 +1,31 @@
-Hi, I'm Abdullah Aslam
+# Hi, I'm Abdullah Aslam 👋
 
-Flutter Developer building cross-platform mobile apps.
+**AI Engineer building LLM agents, RAG systems and automations** | BS Software Engineering @ COMSATS Lahore (2027)
 
-Tech Stack
-- Flutter & Dart  
-- Riverpod (State Management)  
-- Supabase & Firebase  
-- REST API Integration (HTTP / Dio)
+I build agentic AI products end to end: the agent backend, the API and the client app. I also have a Flutter background, which lets me ship the mobile or web front end myself.
 
-📌 Projects
-- **Resume Analyzer** – AI-powered resume analysis app  
-- **FairShare** – Expense splitting app built with Flutter & Supabase  
+## 🛠 Tech Stack
 
-🌱 Currently Learning
-- n8n Automation
-- AI integration in mobile apps  
-- Scalable Flutter architecture
+- **AI & Agents:** Python, LangChain, LangGraph, RAG, Tool Calling, Multi-Agent Systems, MCP
+- **LLMs:** Gemini, OpenAI, Groq, OpenRouter, Tavily
+- **Backend & Data:** FastAPI, REST APIs, PostgreSQL, pgvector, SQLite, ChromaDB, Supabase
+- **Automation:** n8n, WhatsApp Business API, Google Calendar & Sheets APIs, Webhooks
+- **Mobile / Frontend:** Flutter, Dart, Riverpod, GetX
 
-<!--
-**AbdullahAslam1/AbdullahAslam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Featured Projects
 
-Here are some ideas to get you started:
+- **Multi-Agent Deep Research Pipeline:** LangGraph workflow with a researcher/critic loop that plans, searches, scrapes and writes sourced reports
+- **WhatsApp Appointment Booking Agent:** n8n + LangChain assistant for a medical clinic, with a deterministic gate so the agent never writes to the database directly
+- **RAGent:** FastAPI + LangGraph agent that chooses between web search and ChromaDB retrieval, with a Flutter client
+- **TripMate AI:** multi-agent travel planner with LangGraph, FastAPI, Groq and PostgreSQL/pgvector
+- **Earlier Flutter work:** Resume Analyzer, FairShare (Flutter + Supabase)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Working On
+
+- Building TripMate AI with a Flutter web frontend
+- Production-grade agent design: evaluation, guardrails and observability
+- Automation workflows for healthcare, real estate and home-services use cases
+
+## 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/abdullahaslam1) · m.abdullahaslam049@gmail.com
